@@ -1,3 +1,8 @@
+html {
+  scroll-padding-top: 3rem;
+  scroll-behavior: smooth;
+}
+
 body {
   background: #333;
   color: #fff;
@@ -5,10 +10,9 @@ body {
 
 .navbar {
   border-bottom: 3px solid #008ed6;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
-/* HOME SECTION */
 #home-section {
   background: url(../img/home.jpg) no-repeat;
   background-size: cover;
@@ -41,7 +45,6 @@ body {
   border-radius: 5px;
 }
 
-/* EXPLORE SECTION */
 #explore-section .fas,
 #share-section .fas {
   background: #333;
