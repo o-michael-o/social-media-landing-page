@@ -14,7 +14,6 @@
   "name": "social-media-landing-page",
   "description": "Clean and modern social media company landing page using HTML5, CSS3, and Bootstrap. Bootstrap Scrollspy has also been included for a better User Experience.",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "clean:output": "rimraf dist",
     "start": "npm run clean:output && parcel src/index.html",

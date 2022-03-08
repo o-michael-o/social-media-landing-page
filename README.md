@@ -12,7 +12,7 @@ Github Pages deployment at this [link](https://o-michael-o.github.io/social-medi
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.webp)
 
 ## Roadmap
 
